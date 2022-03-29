@@ -8,5 +8,6 @@ public class Teste {
 		System.out.println(soma);
 		System.out.println("Obrigado");
 		System.out.println("Merge");
+		System.out.println("oi");
 	}
 }
