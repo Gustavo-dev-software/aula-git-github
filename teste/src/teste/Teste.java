@@ -9,5 +9,6 @@ public class Teste {
 		System.out.println("Obrigado");
 		System.out.println("Merge");
 		System.out.println("oi");
+		System.out.println("outro");
 	}
 }
